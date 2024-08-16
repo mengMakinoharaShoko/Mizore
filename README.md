@@ -1,6 +1,5 @@
 # Mizore音乐网页
 #### 基于Spring+Spring MVC(Maven方式构建)
-[![Build Status](https://chenx.tech/content/images/size/w1000/2020/09/HY7Q72MHZB-D6--R6FLFZ-5-3.png)](https://spring.io/projects/spring-boot)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://maven.apache.org/)
 ### 项目简介
 本网页基于springboot2, mvc,数据库为mysql。前端使用vue。 
