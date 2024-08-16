@@ -1,7 +1,7 @@
 # Mizore音乐网页
 #### 基于Spring+Spring MVC(Maven方式构建)
-[![Build Status](https://travis-ci.org/withstars/Books-Management-System.svg?branch=master)](https://travis-ci.org/withstars/Books-Management-System)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/withstars/Books-Management-System)
+[![Build Status](https://spring.io/)](https://spring.io/projects/spring-boot)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://maven.apache.org/)
 ### 项目简介
 本网页基于springboot2, mvc,数据库为mysql。前端使用vue。 
 ### 系统功能
